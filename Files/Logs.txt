@@ -1,0 +1,288 @@
+160.86.242.23:8080 requesting to *** 
+https://fd93.me/simple-sites
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="HandheldFriendly" content="True" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="robots" content="" />
+
+  <link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,400;0,700;1,400&family=Source+Sans+Pro:ital,wght@0,300;0,400;0,700;1,400&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" type="text/css" href="https://fd93.me/theme/stylesheet/style.min.css">
+
+  <link rel="stylesheet" type="text/css" href="https://fd93.me/theme/fd93/mixins.css">
+
+
+    <link id="pygments-light-theme" rel="stylesheet" type="text/css"
+          href="https://fd93.me/theme/pygments/github.min.css">
+
+
+
+  <link rel="stylesheet" type="text/css" href="https://fd93.me/theme/font-awesome/css/fontawesome.css">
+  <link rel="stylesheet" type="text/css" href="https://fd93.me/theme/font-awesome/css/brands.css">
+  <link rel="stylesheet" type="text/css" href="https://fd93.me/theme/font-awesome/css/solid.css">
+
+
+<!-- Reddit Pixel -->
+<script>
+!function(w,d){if(!w.rdt){var p=w.rdt=function(){p.sendEvent?p.sendEvent.apply(p,arguments):p.callQueue.push(arguments)};p.callQueue=[];var t=d.createElement("script");t.src="https://www.redditstatic.com/ads/pixel.js",t.async=!0;var s=d.getElementsByTagName("script")[0];s.parentNode.insertBefore(t,s)}}(window,document);rdt('init','a2_eg3srxai7jjc', {"useDecimalCurrencyValues":true});rdt('track', 'PageVisit');
+</script>
+<!-- DO NOT MODIFY UNLESS TO REPLACE A USER IDENTIFIER -->
+<!-- End Reddit Pixel -->
+
+
+  <link href="https://fd93.me/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="fd93 Atom">
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GWPWB9S3JS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-GWPWB9S3JS');
+</script>
+
+ 
+
+<meta name="author" content="Frank Davies" />
+<meta name="description" content="Simple websites are better than beautiful ones. I&#39;ll repeat that for the folks in the back. Simple websites are better than beautiful ones. Let me be clear what I mean by a simple website. I don&#39;t mean a Wordpress site with a minimalist theme. I also don&#39;t mean a Substack …" />
+<meta name="keywords" content="programming, productivity, webdev">
+
+
+  <meta property="og:site_name" content="fd93"/>
+  <meta property="og:title" content="The Unreasonable Effectiveness of Simple Websites"/>
+  <meta property="og:description" content="Simple websites are better than beautiful ones. I&#39;ll repeat that for the folks in the back. Simple websites are better than beautiful ones. Let me be clear what I mean by a simple website. I don&#39;t mean a Wordpress site with a minimalist theme. I also don&#39;t mean a Substack …"/>
+  <meta property="og:locale" content="en_US"/>
+  <meta property="og:url" content="https://fd93.me/simple-sites.html"/>
+  <meta property="og:type" content="article"/>
+  <meta property="article:published_time" content="2024-02-11 00:00:00+08:00"/>
+  <meta property="article:modified_time" content=""/>
+  <meta property="article:author" content="https://fd93.me/author/frank-davies.html">
+  <meta property="article:section" content="general"/>
+  <meta property="article:tag" content="programming"/>
+  <meta property="article:tag" content="productivity"/>
+  <meta property="article:tag" content="webdev"/>
+  <meta property="og:image" content="/images/self-av.png">
+
+  <title>fd93 &ndash; The Unreasonable Effectiveness of Simple Websites</title>
+
+
+</head>
+<body class="light-theme">
+
+<aside>
+  <div>
+    <a class="mobile-hidden" href="https://fd93.me/">
+      <img src="/images/self-av.png" alt="fd93" title="fd93">
+    </a>
+
+    <h1 class="mobile-hidden">
+      <a href="https://fd93.me/">fd93</a>
+    </h1>
+
+    <p class="mobile-hidden">My site about productivity and programming</p>
+
+
+    <nav>
+      <ul class="list">
+
+
+
+          <li>
+		  <a target="_self" class="" href="/" >Blog</a>
+          </li>
+          <li>
+		  <a target="_self" class="" href="/pages/courses" >Courses</a>
+          </li>
+          <li>
+		  <a target="_self" class="" href="/pages/project-index" >My projects</a>
+          </li>
+          <li>
+		  <a target="_self" class="" href="/pages/mtt" >Milk Tea Tech?</a>
+          </li>
+          <li>
+		  <a target="_self" class="" href="/pages/about" >About me</a>
+          </li>
+          <li>
+		  <a target="_self" class="" href="/pages/signup" >Get updates</a>
+          </li>
+          <li>
+		  <a target="_self" class="link-highlight" href="/pages/classes" >Get tutoring</a>
+          </li>
+      </ul>
+    </nav>
+
+    <ul class="social mobile-hidden">
+      <li>
+        <a class="sc-discord"
+           href="https://discord.gg/z7XMzHpFPG"
+           target="_blank">
+          <i class="fa-brands fa-discord"></i>
+        </a>
+      </li>
+      <li>
+        <a class="sc-github"
+           href="https://github.com/fdavies93"
+           target="_blank">
+          <i class="fa-brands fa-github"></i>
+        </a>
+      </li>
+      <li>
+        <a class="sc-linkedin"
+           href="https://www.linkedin.com/in/f-davies/"
+           target="_blank">
+          <i class="fa-brands fa-linkedin"></i>
+        </a>
+      </li>
+      <li>
+        <a class="sc-rss"
+           href="/feeds/all.atom.xml"
+           target="_blank">
+          <i class="fa-solid fa-rss"></i>
+        </a>
+      </li>
+    </ul>
+  </div>
+
+</aside>
+  <main>
+
+
+<article class="single">
+  <header>
+      
+    <h1 id="simple-sites">The Unreasonable Effectiveness of Simple Websites</h1>
+    <p>
+      Posted on Sun 11 February 2024 in <a href="https://fd93.me/category/general.html">general</a>
+
+    </p>
+  </header>
+
+
+  <div>
+    <p><img alt="" src="/images/pexels-tirachard-kumtanom-587441.jpg"></p>
+<p>Simple websites are better than beautiful ones.</p>
+<p>I'll repeat that for the folks in the back.</p>
+<p><strong>Simple websites are better than beautiful ones.</strong></p>
+<p>Let me be clear what I mean by a simple website. I don't mean a Wordpress site
+with a minimalist theme. I also don't mean a Substack, a Medium, or a Blogger
+site (remember those?).</p>
+<p>No, what I mean is an old-fashioned Web 1.0 website. For style examples, 
+take <a href="https://paulgraham.com/">Paul Graham's site</a>,
+<a href="https://news.ycombinator.com/">Hacker News</a>, 
+<a href="https://madhadron.com/programming/index.html">madhadron's blog</a>, and <strong>this
+site</strong>. (To my lasting regret I have not achieved the spare minimalism of pg's
+blog.)</p>
+<p>These sites have two things in common:</p>
+<ul>
+<li>They look like they're from the 90s. They suck.</li>
+<li>They're created by experienced developers.</li>
+</ul>
+<p>Paul Graham, being one of the most successful investors in the Valley, easily
+has the resources to have a <a href="https://www.apple.com/">modern site</a> with animations,
+beautiful photography, and fancy scrolling-in pieces of text.</p>
+<p>So why doesn't he?</p>
+<p>Modern frameworks like React make it very easy to create aesthetically pleasing
+websites. There are component libraries like <a href="https://flowbite.com/">Flowbite</a>
+which let you add fancy widgets and doodads galore to your modern Next.js stack
+with 10,000 node_module dependencies.</p>
+<p>As any experienced web developer will tell you, though, these create other
+problems:</p>
+<ul>
+<li>To have a good user experience, you need to spend a lot of time working on
+  your design.</li>
+<li>You can't just write content: you need a CMS, which is a separate app. </li>
+<li>If you make your site render client-side (the default with React) it will have
+  no search engine presence.</li>
+<li>You probably need to deploy one instance of your site for every region you
+  want to serve. If you're going global, that means at least 7 servers.
+  Otherwise you'll experience slow load times in many parts of the world.</li>
+<li>Also, your framework inherently adds a lot of overhead to load time.</li>
+</ul>
+<p>All of this costs time and money that could be spent creating content. </p>
+<p>Of course, there is one advantage to your complex, modern site:</p>
+<ul>
+<li>It looks nice.</li>
+</ul>
+<p>Most sites that we interact with are either web apps, for
+which complex frameworks are <em>often</em> a good choice, or advertisements of some
+sort, for which aesthetics matter a lot more than functionality. Unfortunately, 
+this gives most of us the impression that we should use heavyweight frameworks 
+for <em>all</em> our projects.</p>
+<p>I'm here to tell you that this is not the case. Here are some advantages of 
+simple sites:</p>
+<p><strong>Simple sites give primacy to content and are easy for readers to navigate.</strong> 
+PG's blog might look outdated but it's super easy to find what you want. With a
+simple design it's trivial to follow 
+<a href="https://taylorhieber.co/hierarchy-of-information-fundamentals-of-design/">visual hierarchy principles</a>.</p>
+<p><strong>They are simple to write and compose content for.</strong> By using a site builder
+such as <a href="https://getpelican.com/">Pelican</a>, <a href="https://gohugo.io/">Hugo</a>, 
+or <a href="https://jekyllrb.com/">Jekyll</a>, you can get content up in a fraction of the
+time it'd take to do it on a platform like Wordpress. This site is built on
+Pelican. If you want to get spicy, you can even use something like 
+<a href="https://astro.build/">Astro</a> which lets you integrate JSX components into your
+simple website.</p>
+<p><strong>They are more optimised for SEO than complex sites.</strong> Simple sites consisting
+mostly of text are very easy for search engines to understand, which translates
+into higher search rankings for your site. You can also get
+addons for most site generators which help optimise your site even further.</p>
+<p><strong>They load quickly.</strong> This also helps with your SEO. One way that search
+engines judge the quality of content is to look at the time to first response
+(when the server replies) and first contentful paint (when content actually
+appears). On simple websites these take a fraction of the time than with modern
+frameworks.</p>
+<p><strong>They're easy to maintain and deploy.</strong> Infrastructure providers like
+<a href="https://vercel.com/">Vercel</a> and <a href="https://www.netlify.com/">Netlify</a> make it
+easy to deploy a simple site in a matter of seconds. 
+Even if you choose to deploy the site yourself, writing the CI/CD logic for a
+static site is pretty simple.</p>
+<p><strong>They can easily be distributed via CDN.</strong> This means that you can put your
+site on over 100 servers globally for less than the cost of a single React app.</p>
+<h2>Conclusion</h2>
+<p><strong>What we often forget is that modern web frameworks aren't designed to be easy
+or optimal for solo developers or freelancers.</strong> They're designed to be scalable 
+for large organisations. React originates from Facebook, Angular from Google.
+Tellingly, Vue.js, the simplest of the mainstream frameworks, was created by an
+individual, not a company.</p>
+<p>Next time you're tempted to reach for a heavyweight framework, then, take pause. 
+You might be missing an opportunity to make your life much simpler.</p>
+<p><em>If you're interested in tutoring, <a href="/pages/classes">click here</a>.</em></p>
+  </div>
+  <div class="tag-cloud">
+    <p>
+      <a href="https://fd93.me/tag/programming.html">programming</a>
+      <a href="https://fd93.me/tag/productivity.html">productivity</a>
+      <a href="https://fd93.me/tag/webdev.html">webdev</a>
+    </p>
+  </div>
+
+
+
+
+
+
+</article>
+
+<footer>
+<p>&copy;  </p>
+<p>
+Built with <a href="http://getpelican.com" target="_blank">Pelican</a> using <a href="http://bit.ly/flex-pelican" target="_blank">Flex</a> theme
+</p></footer>  </main>
+
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Blog",
+  "name": " fd93 ",
+  "url" : "https://fd93.me",
+  "image": "/images/self-av.png",
+  "description": ""
+}
+</script>
+</body>
+</html>222.108.214.168:8080 requesting to *** 
+https://www.cloudflare.com/learning/cdn/glossary/reverse-proxy/<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;max-width:60rem;padding-left:1.5rem}@media (width <= 720px){.main-content{margin-top:4rem}}.h2{font-size:1.5rem;font-weight:500;line-height:2.25rem}@media (width <= 720px){.h2{font-size:1.25rem;line-height:1.5rem}}#challenge-error-text{background-image:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+);background-repeat:no-repeat;background-size:contain;padding-left:34px}@media (prefers-color-scheme:dark){body{background-color:#222;color:#d9d9d9}}</style><meta http-equiv="refresh" content="390"></head><body class="no-js"><div class="main-wrapper" role="main"><div class="main-content"><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script>(function(){window._cf_chl_opt={cvId: '3',cZone: "www.cloudflare.com",cType: 'managed',cNounce: '38634',cRay: '8c778455dc318b60',cHash: '872848d1b032f51',cUPMDTk: "\/learning\/cdn\/glossary\/reverse-proxy\/?__cf_chl_tk=CaHPzWuT2FdDVRM1e2t0lJbErzsE_6xA7uXfGWF1v3w-1727062864-0.0.1.1-4500",cFPWv: 'g',cTTimeMs: '1000',cMTimeMs: '390000',cTplV: 5,cTplB: 'cf',cK: "",fa: "\/learning\/cdn\/glossary\/reverse-proxy\/?__cf_chl_f_tk=CaHPzWuT2FdDVRM1e2t0lJbErzsE_6xA7uXfGWF1v3w-1727062864-0.0.1.1-4500",md: "FF8IKTVyKTrNdjskTdxjc6tH0zBvi.lEcrzDEhJ2QL0-1727062864-1.1.1.1-Ubv4pB7OzlePhiGFr4e1_mzvnBJADHkiYwqSCH88zbq_TsEEpeoEb4hZR1IRfVyqh_uESc2ZCad..2nfOXJkCBesttXidxh4jpKs9F.XdXjdanNSxDo9GQFpWtLDuTZSBt79GT6Y78hQiYl7m_3..Zb_MweJSygx1ebXc_mTYNjH52laEGQvqvDPjgX1M8Gjmw22ojaOHQ45r7xbBiEHaLmUlUsoHS.OZgH7XUAnAe9fmRFm5dZJCoHH6HSNuoRkRK5tJNDJdB2XxHZxr3M61cxzyCzXsddmTviJ6B7GpWdTWvQWhZ3CYHq9owl11Ld95cCfpxVs4DngQRm6M0xFW5mHMzzCDYYbudM7xeHsIdq4XmgY7JK6bCJ7Wax8KdHL2L6zfEWBazTdgEoruhzeGxgdaTABnhJEcXH3a_H3yVsgxFlYev6DSiAb3P0HDiCRIBaEhKi3UcVF9Tfp_1PQM4TeBb_PJDmbWqx.UEwLQaZ5ii0UgLl97nQeMxeQPn1JpgNuWn8xRIuR2F_Ko1Qjxk6mfgr49aYZUxRHnITYK5nUoH._W_GC9wwY7MA1RDaaDecBKpF174p0ibl47NWyDNGpAizPZ2IKthwv44nwxTR0OKtgcTuTjR3YQZucojFOpGKZ7sdCpxfsM0VexXVrX0F97j3mCWhPaj55WxTUbtz4n1binP2WUIjNPqnekRBMKiksxdvhX_4HCHyLCwYpc.VeiSVZ9oOiDeCzwt7Q7pSomhmfLOLEkgJ35niSNBlP6i0Pra2bjB9NThBxb4xktMVLIfxEBF.4ERGe_8Jk4WPVWGLwWGpFKv0Mh_gkg3whyBrEo5zwMfkC1BG7SV_S5yFRGOWRI4G3dy1IUuwA.cmlZtIazWgHs4VR7QpK4HvcfSqbfCMxvr9HlS1B_y6_I2yFC01r4MUrwNULJQT4vYi4ad1Cm7u1gbQ99LKlQZBGaCa8OuQ0lXQXqwir4_RQm9_3U00VvkprUf5KJd0LbkoyaJN386D1iWkJkYAskrA4A6YL.DOo6cx5MLV2JySGSCYU7VJ6wvODv4a9mhlrcR5AeDYVfhWcHDNSNpFjVutED1LEfEKZAwCz2HASjp5XtWbV6v6bxbc9FciizHKukWOu0XT8gXpe764SVnPohJ48w3I5GgB0RoAPr4Y6z.OkXtzGAnffiagAxBHYlk6BLk6BFY1LHxMS0V7hzyOexVAGPSere4i9v682As9aAMsRrl4Qp4oD0vYXmnz_bjDDnDU8N_nyFrwOyZWNUHADgUnEhEp_8xaJLowPIKQmOEOygPy3BPMWGoycu5vPgTGj6qrmbSqTtIa299kPs39EgwdOyDT0t.kCG5OoGHmIWK8KSyiaH_BxrmrlFd0BJpiY0ViC3GwzN43WfbxYwgRyuEAKt75_huw1XnvWOruH0sEJsVoSiQPLE6G_foW86JiBepD_FqaHuxXKmxzrRDuXVa2USs9hjLLQLsxpn4bZVYsv.nhpMZtWm2Bh8Jvc7knfbhGZsskyvMq9ePyULP_JU9ovjC6zJhhRGvZLI.Y37RQe78V0RN5LLib6fjbjv37UabZXNuLCdsfQSyHGk0TVBU8aPKtw0zaHtF46F17tqhtyMF3KB2YQRL4Se81cqTSsiB1t9nZtzSgx6l.xzhR9U6LkKHiDJnR8Ndd6aTtNpqrNvTzKBhxCpUQlTs4M1SQBVj28B0GNaThOCOgXk7ukyvw3HWBJsgPTpZBbugb10v8D_6DmEkSP_uMRwW6MctbmVFLMdVjgE2DuFrVXGhwg1U3UWURjgAmXGyd5ByiDzlHFwqIIaejxOr6N7fIsYXgIFNPNzl_LvpLxvoo_t1z67bWDWErDXNMRLpx7JxSZW_CXNptEZMvXwN4R3HMxMmkW_i1yRgDyUV48dlsl__KreuTm5ScNVCP3Qkv6U12H0ZDX44sPkfk9b2gywAu7PyFgJ0MVd85fZsmM3O58hchIJ6d58vOFZVNmgheV2W4lhJTArw5q2Tyw1.ELQSens2R2MQn66pow8K24Vveh1z2VLEOlgomnfbrYP75cx02jNotsDuAWjkDbv3PIGMFp3PJPREOB.SmiX6W_bV705uiEznSPOQ9HCOHcLSAK6h.DVBcFZyf7JSBwaSn1oH8DKNq5WHUuj.zdefN_5sc9ef_sJm_n",mdrd: "oskxmVU1clCAMCvvsGeW0H0PCiwIaPVDisKn445Nxr4-1727062864-1.1.1.1-guwV5eqIJVbWLy7415qJTE0_vwJnf.S1Cwl7.pBB98TkCPA7Knpg17LtxXkCsqwlkqwSK8F0pZj1cOX7pZV21vZ66USrLNUnSK7U3NkohEp4tGR2t610tpprhx4hlgsdui4O0PtkMyRgeMa85OK0ocqUUSwZ284nZJrIacu3U0zCbODE2wRx2aNdtm8JaFffv9gL7AZnIjm4NRAX_cuS7eFnySGF9a22y2fLErCaP5.x3PyEqxSnTjP0azx.43QLET7GsSAbCPRx1gQKQk77PKXTxv1_ndzkXGurSgrP1Hoh4EEomU5VK8xJ9SxQJRAABYKcp6vKvjjm1pTPNiVEeg0qUEWgQnAh7rf2kxfDM5RYsulIqz6mYxgsPOQEDjcIrK9qnFtFpfsR9yMX7U9KGF0.QHT4EfmOdhp6Fh9XyQIND6GIAWl8XCuy1iUXqVQkEsawrjSba096VhFI5MTuNKNdubkGj0wpflTSH.QUbtGd4Yz8alWeXE9mQ5xjJq02hI.GO_Zlzcy_dmS128zMQrubTQ0qWDBEoyfNmcLG4UcZj_oinz5WmB7YbqYq19HO.JH1eJw50n5Wd2HzvCEAKOhKDiSQ4IA4kc0szhJet1jA4.JCS7ZCyole6Sfx0rNIOtVll4wqUP7MTKAmJ3HDJKS8pmaDZt621klwvEn.OAQ.Glxqwj22mfB7wOYa3P8B45XbPXs0WmssIuiCHF43MWLGE4Q2IQDAVuk.b9GUjcOuHT7CoG55dO0s_ZZfriXGDeW26X04T_rY0nH6JvV6no4zNs6zI.OeMMi8JezCmYlfqKRrxJBKP7tqgRFJ7qZ8b8keFqtPY1UjmzNwQUKMIsREcM.IaKNRk8W6pVI6lptonCDkZR621NvCRCBkCJWpIHQg8OCby.wYiLdxSCnGYCgmCwJ3.WMqdEGgdL1zWEiQKixJUiNjOvMz1Bgv8YiHEzHe6G7rhQpgBGwXt6sEEx8hsV.egj.nUEoZBd5EkEGOMpg3BDMsIzMQVLQw_1Or6axuE2WzB0W6Vr9ZIUnhappP4L8y3zcBZHzPsaQhcqjficCoLW1ZkDcQZ3GStpyHq3AEWfQEDPgVqgvrAWrrKERNf2h07SRv2KyeNZTaSqKf5oVBG5rHm2tAMb0nBw.D2j1QZjb9I8m0tTsbeJpuaLo15krTHZOrYqmgwPOC_3AT_PSSK.5Q9IPRLTsJ6nyA3sgzy_r9Y7wxAcAU5jrcKIGjLG8UBi06PI9NpnmVfg2K.sQOSylG5u5XObFhjeA1bIe5rdom.LShK5cepQJNcmy_YI6z2xLKoVuYuuNcPoJg8vsha0SmxX2W5m5dp6oZs23412xU34e_yVh4x7pGljAKleDWeCLzcg8Gv3tLXJYFZlOa0rWSJZhc7mYKQdKCCnmWre.C1_B4IZrgntzlWcOd09.3V.tmFbzRXhgOEvtwtsV61FieQ4FRCz_0gRJBfZoxW109X9RQ6pKZ8GtJtjION2ONXuaklRoS7YsV9VcKzJluHUHGKXbiaV6sHwb05YKA8PxFtL5LnK1iSCSniy6cRMZVi1z1q7T4naaA_D3MZ2eKEwK4oPUswYz6wrr3uL0Bcp4UioJaFaDRwXzY1i3.WqbumUDZ_zUTT4NcU40MIhPU7k1iPVW_PyWMR3J4F5wwTnB8ywh3BKC0dcm9palu.dWMMdKC0s_7WMx7Hdu.G3U7ezduFh3CQJ1K__KKnHR4RwJ5j2A44AFpcMdDKWxbSfoLzHpStGvAD8jju_x9mOo6PvXtm4xt6ndaScHL90vc7TlS9XE4Ev8z53JzoIksLJ0sIY3v_.a_.NJnbARcNDMt7jqWHnOk5YOuSte2aUWM95meXgYVPWVqO3A.qJ_IO8jLu.pUAKAhIFSG30ArzMmvwEQ8xGJkzKG3hvIgkewv2tFbu_poJ5Chs2hCbXEKK3hjthKaM3eTfQCp9KOccQDe9P.2vbBT2.q8jVugbGt7zkX4ItpKru_vKsqGC26mt.UDcuehgrqUzgtEpqGrflKqE4MWzR0Y8A0evsIVRdi0fDS8AD13Vl09qj2dQPScA_naNtj2O8p9iWW.6dRae7LHSoRtWuxEm_fsNP7ohCPKdxy2EwwzIZO.Zz8ARqij_qLA5WbF_xt0eFyg_n0BpgCVODDd30j828k9JcUtsKQRiiia0QjTA4x1H2L5Og",cRq: {ru: 'aHR0cHM6Ly93d3cuY2xvdWRmbGFyZS5jb20vbGVhcm5pbmcvY2RuL2dsb3NzYXJ5L3JldmVyc2UtcHJveHkv',ra: 'cHl0aG9uLXJlcXVlc3RzLzIuMzEuMA==',d: 'KC/OaGSYsRBje1ej/1hOjKvdr6+bOVZ5TnKmuYg/C3D6xoWzlKHFZcQTLkGrnaVtvALNNlBSbPucjCIkBD+nmfM2/RNqZLujZCEjVcvTwt0HDn6Jgbr8fL2TdAMMo6nozJ0sEW2SDLQc1rXNlmT4kp3l5MK42RYjqd9m7eyxhHYXl9CB9lH/ZJp6E8lVFvG7VlGV66qgL4WlqtHEUvBspqHNOL8IH0OEoWx4BYhxi9NZilzFJc2+wLTOqR+xWhC2ZKFjZfG3DuBz8iWwVS4sKXkiNOteBR6JP0Dp0z10QI0RmGfI17kgkGKpdA6sBmD194kS5txZ/F2sWcRxVeGu1dsC6TR4ur2knSySznSkzVPWPU1CJGEc0r14bvLIDEHMn4snfTjOtVbl0jiu4BdordXhI9dwuLR0uUKcdkW6P2AhPyuKqAHUqF7gZyGCuQNlQuMWfXhfNwtqFfMccQeaqL0vp9sgRJMyVjA1p36D3J73wCddtJvjt18vIPfzSpuiUk7cSh5esYAD4ptBNE9biZh0uiVbFZ/G5UqEo5FDEVeSEVttl4+mWP8qrmahipOPxL3S09BNleK/ItRd40X2Qw==',t: 'MTcyNzA2Mjg2NC4wMDAwMDA=',cT: Math.floor(Date.now() / 1000),m: 'wJr3GN1JoifOOwVqUty68RssZwPrGDbUHZ+u47jW8SQ=',i1: 'TOATG+Gik389EH2EjTPpLw==',i2: 'aAh3YsRB+mVwsM6PgxFYVw==',zh: 'WknVD3gDHQEGTLPKhwAHV9fbqA3BzTCoGSgrSa52xC0=',uh: 'YE9XOpG5TeHmhA1zfs5mxC8CrRZzq2a/+r+OU7dliYQ=',hh: 'o2CsT6J8k5XABFTKG8Pc+kjAUTbm0LrSlAwXOrIi85c=',}};var cpo = document.createElement('script');cpo.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=8c778455dc318b60';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null, "\/learning\/cdn\/glossary\/reverse-proxy\/?__cf_chl_rt_tk=CaHPzWuT2FdDVRM1e2t0lJbErzsE_6xA7uXfGWF1v3w-1727062864-0.0.1.1-4500" + window._cf_chl_opt.cOgUHash);cpo.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(cpo);}());</script></body></html>

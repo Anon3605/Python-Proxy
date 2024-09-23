@@ -1,0 +1,66 @@
+PS F:\Python Proxy> & C:/Users/Acer/anaconda3/python.exe "f:/Python Codes/Python Requests/rotating_proxies.py"
+Enter The sites you want to surf: Input Sites: https://fd93.me/simple-sites,https://www.cloudflare.com/learning/cdn/glossary/reverse-proxy/
+Surfing Sites named:  https://fd93.me/simple-sites
+160.86.242.23:8080
+Proxy 160.86.242.23:8080 successful
+198.49.68.80:80
+ProxyError: The proxy 198.49.68.80:80 is invalid or not responding.
+154.203.132.55:8090
+ProxyError: The proxy 154.203.132.55:8090 is invalid or not responding.
+116.203.28.43:80
+ProxyError: The proxy 116.203.28.43:80 is invalid or not responding.
+97.74.87.226:80
+ProxyError: The proxy 97.74.87.226:80 is invalid or not responding.
+51.89.255.67:80
+ProxyError: The proxy 51.89.255.67:80 is invalid or not responding.
+20.206.106.192:8123
+ProxyError: The proxy 20.206.106.192:8123 is invalid or not responding.
+20.111.54.16:8123
+ProxyError: The proxy 20.111.54.16:8123 is invalid or not responding.
+20.210.113.32:8123
+ProxyError: The proxy 20.210.113.32:8123 is invalid or not responding.
+123.30.154.171:7777
+ProxyError: The proxy 123.30.154.171:7777 is invalid or not responding.
+156.38.112.11:80
+ProxyError: The proxy 156.38.112.11:80 is invalid or not responding.
+85.215.64.49:80
+ProxyError: The proxy 85.215.64.49:80 is invalid or not responding.
+222.108.214.168:8080
+RequestException: An error occurred - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+118.70.184.10:31300
+ProxyError: The proxy 118.70.184.10:31300 is invalid or not responding.
+37.187.25.85:80
+RequestException: An error occurred - HTTPSConnectionPool(host='fd93.me', port=443): Max retries exceeded with url: /simple-sites (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))
+Proxy limit Exceeded, Try to get valid proxies again...
+Surfing Sites named:  https://www.cloudflare.com/learning/cdn/glossary/reverse-proxy/
+160.86.242.23:8080
+RequestException: An error occurred - HTTPSConnectionPool(host='www.cloudflare.com', port=443): Max retries exceeded with url: /learning/cdn/glossary/reverse-proxy/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of 
+protocol (_ssl.c:1006)')))
+198.49.68.80:80
+ProxyError: The proxy 198.49.68.80:80 is invalid or not responding.
+154.203.132.55:8090
+ProxyError: The proxy 154.203.132.55:8090 is invalid or not responding.
+116.203.28.43:80
+ProxyError: The proxy 116.203.28.43:80 is invalid or not responding.
+97.74.87.226:80
+ProxyError: The proxy 97.74.87.226:80 is invalid or not responding.
+51.89.255.67:80
+ProxyError: The proxy 51.89.255.67:80 is invalid or not responding.
+20.206.106.192:8123
+ProxyError: The proxy 20.206.106.192:8123 is invalid or not responding.
+20.111.54.16:8123
+ProxyError: The proxy 20.111.54.16:8123 is invalid or not responding.
+20.210.113.32:8123
+ProxyError: The proxy 20.210.113.32:8123 is invalid or not responding.
+123.30.154.171:7777
+ProxyError: The proxy 123.30.154.171:7777 is invalid or not responding.
+156.38.112.11:80
+ProxyError: The proxy 156.38.112.11:80 is invalid or not responding.
+85.215.64.49:80
+ProxyError: The proxy 85.215.64.49:80 is invalid or not responding.
+222.108.214.168:8080
+Proxy 222.108.214.168:8080 successful
+118.70.184.10:31300
+ProxyError: The proxy 118.70.184.10:31300 is invalid or not responding.
+37.187.25.85:80
+RequestException: An error occurred - HTTPSConnectionPool(host='www.cloudflare.com', port=443): Max retries exceeded with url: /learning/cdn/glossary/reverse-proxy/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))
